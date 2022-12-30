@@ -21,7 +21,7 @@
         - Desired task: `1`
         - Networking:
             - VPC: `select Default` or `a working VPC with Internet connections`
-            - Sebnets: `Select TWO or MORE subnets`
+            - Subnets: `Select TWO or MORE subnets`
             - Security Group: 
                 - Name: `flamencoapp-sg`
                 - Inbound Rules: 
